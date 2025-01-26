@@ -15,15 +15,25 @@ I’m susan Mboso, an aspiring Machine Learning Engineer passionate about creati
 💻 Transitioning from programming basics to implementing real-world ML solutions.
 
 🛠️ Tech Skills:
+
 Languages: Python, Java, full stack web developer etc
+
 Tools & Frameworks: (Soon to include TensorFlow, PyTorch, Scikit-learn)
+
 Concepts: Statistics, Regression, Z-scores, Data Visualization
+
 Learning: Neural Networks, Natural Language Processing (NLP), and Reinforcement Learning
+
 🌟 Goals:
+
 Build AI solutions to solve real-world problems.
+
 Land a role as a Machine Learning Engineer.
+
 Collaborate with the open-source community to enhance my knowledge and share insights.
+
 📫 Connect With Me:
+
 📧 Susanmboso@gmail.com
 
 <!---
