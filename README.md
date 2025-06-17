@@ -1,8 +1,7 @@
-I'm a web developer with a good frontend and backend skills.
+I'm a full stack web developer with a growing interest in desktop application development. I work with:
 
-languages: PHP, HTML, CSS, JavaScript, MySQL, and Java ( building projects from scratch, fixing bugs, or cleaning up messy code when needed.)
+Languages: PHP, HTML, CSS, JavaScript, MySQL, and Java
 
-Lately, I’ve been diving into Python, working on a personal project that is user friendly and has AI integration.
+Lately, I've been diving into Python, working on a personal project that is both user friendly and features AI integration.
 
-My focus: getting things to work, clean code, solid structure, and especially keeping the user in mind.
-
+My focus: keeping the structure solid, the code clean, and the experience smooth for the user.
