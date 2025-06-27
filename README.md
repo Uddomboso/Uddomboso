@@ -1,6 +1,6 @@
 I'm a full stack web developer with a growing interest in desktop application development. I work with:
 
-Languages: PHP, HTML, CSS, JavaScript, MySQL, and Java
+Languages: PHP, HTML, CSS, JavaScript (vanilla), MySQL, and Java
 
 Lately, I've been diving into Python, working on a personal project that is both user friendly and features AI integration.
 
