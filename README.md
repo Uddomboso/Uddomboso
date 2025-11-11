@@ -1,4 +1,4 @@
-# Hi there, I'm Susan Mboso 👋
+# Hi there, I'm Susan Mboso 👋🏾
 
 <div align="center">
 
