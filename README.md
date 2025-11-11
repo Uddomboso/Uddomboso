@@ -151,10 +151,9 @@ Official website project for Pray Mom Pray organization.
 
 I'm always open to collaborating on interesting projects, especially in the fintech and web development space. Feel free to reach out!
 
-- **GitHub:** [@Uddomboso](https://github.com/Uddomboso)
-- **Email:** [Susanmboso@gmail.com]
-- **LinkedIn:** [(https://www.linkedin.com/in/susan-mboso-912622213)]
-
+* [**LinkedIn**](https://www.linkedin.com/in/susan-mboso-912622213)
+* [**Email**](mailto:Susanmboso@gmail.com)
+* [**GitHub**](https://github.com/Uddomboso)
 ---
 
 <div align="center">
