@@ -161,7 +161,7 @@ I'm always open to collaborating on interesting projects, especially in the fint
 
 **Thanks for visiting my profile!**
 
-*"Building solutions, one commit at a time."*
+
 
 </div>
 
