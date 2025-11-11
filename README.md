@@ -5,7 +5,7 @@
 **Software Developer | Finance Technology Enthusiast | Full-Stack Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Uddomboso-181717?style=flat&logo=github)](https://github.com/Uddomboso)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/susan-mboso-912622213))
 
 </div>
 
@@ -152,8 +152,8 @@ Official website project for Pray Mom Pray organization.
 I'm always open to collaborating on interesting projects, especially in the fintech and web development space. Feel free to reach out!
 
 - **GitHub:** [@Uddomboso](https://github.com/Uddomboso)
-- **Email:** [Your email here]
-- **LinkedIn:** [Your LinkedIn profile]
+- **Email:** [Susanmboso@gmail.com]
+- **LinkedIn:** [(https://www.linkedin.com/in/susan-mboso-912622213)]
 
 ---
 
@@ -161,7 +161,7 @@ I'm always open to collaborating on interesting projects, especially in the fint
 
 **Thanks for visiting my profile!**
 
-*"Building solutions, one commit at a time."*
+
 
 </div>
 
