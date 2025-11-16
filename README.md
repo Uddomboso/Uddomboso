@@ -31,7 +31,6 @@ I'm a passionate software developer with a strong interest in finance technology
 
 ### Frameworks & Libraries
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -52,9 +51,9 @@ I'm a passionate software developer with a strong interest in finance technology
 
 A comprehensive desktop application built with PyQt5 that helps users manage their finances intelligently. Features include:
 - AI-powered financial advice using GROQ AI
-- Secure bank integration via Plaid API (11,000+ banks)
-- Real-time transaction tracking and budget management
-- Beautiful modern UI with dark/light themes
+- Secure bank integration via Plaid API (used sandbox for this)
+- Real time transaction tracking and budget management
+- modern UI with dark/light themes
 - SQLite database for local data storage
 
 **Tech Stack:** Python, PyQt5, GROQ AI, Plaid API, SQLite
