@@ -37,8 +37,7 @@ I'm a passionate software developer with a strong interest in finance technology
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ![Plaid API](https://img.shields.io/badge/Plaid-000000?style=flat)
 ![GROQ AI](https://img.shields.io/badge/GROQ-000000?style=flat)
 
