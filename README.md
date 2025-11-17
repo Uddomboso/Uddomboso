@@ -113,20 +113,6 @@ Official website project for Pray Mom Pray organization.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uddomboso&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uddomboso&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Uddomboso&theme=dark&hide_border=true&background=0D1117)
-
-</div>
-
----
-
 ## What I'm Working On
 
 - Enhancing PennyWise with new features and improvements
