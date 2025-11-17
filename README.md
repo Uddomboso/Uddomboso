@@ -134,8 +134,6 @@ Official website project for Pray Mom Pray organization.
 
 ## Let's Connect
 
-I'm always open to collaborating on interesting projects, especially in the fintech and web development space. Feel free to reach out!
-
 - **GitHub:** [@Uddomboso](https://github.com/Uddomboso)
 - **Email:** [susanmboso@gmail.com](mailto:susanmboso@gmail.com)
 - **LinkedIn:** [Susan Mboso](https://www.linkedin.com/in/susan-mboso-912622213)
