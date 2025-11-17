@@ -9,19 +9,9 @@
 
 </div>
 
----
-
-## About Me
-
-I'm a passionate software developer with a strong interest in finance technology and full-stack development. I enjoy building practical applications that solve real-world problems, particularly in the financial management space. My work spans from desktop applications to web development, with a focus on creating user-friendly and efficient solutions.
-
-**Pronouns:** she/her
-
----
-
 ## Skills & Technologies
 
-### Languages
+### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -30,11 +20,15 @@ I'm a passionate software developer with a strong interest in finance technology
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white)
 
 ### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E0B3?style=flat&logo=neon&logoColor=white)
 
 ### Tools & Technologies
 
@@ -45,10 +39,35 @@ I'm a passionate software developer with a strong interest in finance technology
 
 ## Featured Projects
 
+### [Abandoned Arcade](https://github.com/Uddomboso/abandoned-arcade)
+
+**Web-Based Retro Game Arcade Platform**
+
+A comprehensive web-based retro game arcade platform built with Laravel. Features include:
+
+- Discover, play, and preserve classic games from various eras
+- Dark theme with modern UI/UX design
+- Guest mode for instant play
+- Game management and preservation system
+- User authentication and profiles
+- Save states and game progress tracking
+- Reviews and ratings system
+
+**Tech Stack:** PHP, Laravel, JavaScript, HTML5, CSS3, NeonDB (PostgreSQL)
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Neon](https://img.shields.io/badge/Neon-00E0B3?style=flat&logo=neon&logoColor=white)](https://neon.tech/)
+
+---
+
 ### [PennyWise](https://github.com/Uddomboso/PennyWise)
+
 **AI-Powered Personal Finance Management Application**
 
 A comprehensive desktop application built with PyQt5 that helps users manage their finances intelligently. Features include:
+
 - AI-powered financial advice using GROQ AI
 - Secure bank integration via Plaid API (used sandbox for this)
 - Real time transaction tracking and budget management
@@ -58,23 +77,17 @@ A comprehensive desktop application built with PyQt5 that helps users manage the
 **Tech Stack:** Python, PyQt5, GROQ AI, Plaid API, SQLite
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+
 [![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/)
 
 ---
 
-### [FinanceSystem](https://github.com/Uddomboso/FinanceSystem)
-**Finance Management System for Budgeting**
-
-A finance management system designed to help with budgeting and financial planning. Currently under active development.
-
-**Tech Stack:** Python, PyQt5, Plaid API, SMTP
-
----
-
 ### [LibrarySystem](https://github.com/Uddomboso/LibrarySystem)
+
 **Library Management System**
 
 A comprehensive library management system built with Java and MySQL. Features include:
+
 - User authentication (login/signup)
 - Book borrowing and returning
 - Book donation functionality
@@ -84,6 +97,7 @@ A comprehensive library management system built with Java and MySQL. Features in
 **Tech Stack:** Java, MySQL
 
 ---
+
 
 ### [Resonance](https://github.com/Uddomboso/Resonance)
 **Social Media Web App for Music Lovers**
@@ -109,15 +123,6 @@ Official website project for Pray Mom Pray organization.
 - **Hardware-store-DBMS** - Database management system for hardware store
 - **Student-grading-system** - Academic grading management system
 - **SimpleWordGame** - Interactive word guessing game built with HTML, CSS, and JavaScript
-
----
-
-## What I'm Working On
-
-- Enhancing PennyWise with new features and improvements
-- Developing FinanceSystem for comprehensive budget management
-- Reconstructing Resonance social media platform
-- Learning and exploring new technologies in fintech
 
 ---
 
