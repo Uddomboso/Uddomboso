@@ -1,8 +1,8 @@
-# Hi there, I'm Susan Mboso 👋🏾
+# Susan Mboso 👋🏾
 
 <div align="center">
 
-**Software Developer | Finance Technology Enthusiast | Full-Stack Developer**
+**Full-Stack Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Uddomboso-181717?style=flat&logo=github)](https://github.com/Uddomboso)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/susan-mboso-912622213)
