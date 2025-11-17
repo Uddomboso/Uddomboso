@@ -1,8 +1,8 @@
-# Susan Mboso 👋🏾
+# susan mboso 👋🏾
 
 <div align="center">
 
-**Full-Stack Developer**
+**full-stack developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Uddomboso-181717?style=flat&logo=github)](https://github.com/Uddomboso)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/susan-mboso-912622213)
