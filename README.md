@@ -4,11 +4,7 @@
 
 **developer**
 
- [linkedin](**https://**www.linkedin.com/in/susan-mboso)
- [web game](https://github.com/Uddomboso/SimpleWordGame)
- [web games](https://github.com/Uddomboso/abandoned-arcade)
- [finance app](https://github.com/Uddomboso/PennyWise)
-
+[linkedin](https://www.linkedin.com/in/susan-mboso) &nbsp;&nbsp; | &nbsp;&nbsp; [web game](https://github.com/Uddomboso/SimpleWordGame) &nbsp;&nbsp; | &nbsp;&nbsp; [web games](https://github.com/Uddomboso/abandoned-arcade) &nbsp;&nbsp; | &nbsp;&nbsp; [finance app](https://github.com/Uddomboso/PennyWise)
 
 
 ---
